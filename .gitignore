@@ -1,0 +1,11 @@
+# minimal .gitignore
+*.pyc
+.env
+
+# PyCharm files
+.idea/*
+
+# macOS files
+.DS_Store
+
+weatherfiles
